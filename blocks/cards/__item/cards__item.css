@@ -1,0 +1,9 @@
+.cards__item  {
+    width: 240px;
+    min-height: 425px;
+    margin-right: 100px;
+    }
+
+   .cards__item:nth-of-type(3n) {
+   margin-right: 0;
+   }
