@@ -1,9 +1,10 @@
 .cards__item  {
     width: 240px;
-    min-height: 425px;
     margin-right: 100px;
-    }
+    margin-top: 60px;
+    text-align: center;
+}
 
-   .cards__item:nth-of-type(3n) {
+.cards__item:nth-of-type(3n) {
    margin-right: 0;
-   }
+}
