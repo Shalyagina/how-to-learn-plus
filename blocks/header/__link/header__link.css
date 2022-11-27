@@ -1,7 +1,4 @@
 .header__link {
-  position: absolute;
-  bottom: 0;
-  right: 35px;
   text-decoration: none;
   color: #2f80ed;
 }
